@@ -1,6 +1,6 @@
 # Ex.No: 2  Welcome Script in Unity
 ### DATE: 24-06-26                                                                          
-### REGISTER NUMBER : 212223240121
+### REGISTER NUMBER : 212223240028
 ### AIM: 
  To learn the basic scripting in Unity and print welcome message in Console window. 
 ### Procedure:
